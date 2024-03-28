@@ -1,54 +1,28 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/pfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/pfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/pfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/P-Auxj7aNfQ?style=social)](https://youtu.be/P-Auxj7aNfQ)
 
-  <br />
-  <br />
+<img width="1221" alt="website_ss" src="https://github.com/GaurishBahurupi/GaurishBahurupi.github.io/assets/139263378/230d6305-fde1-45ce-8e05-9335ba3c4b59">
 
-  <h2 align="center">Personal Portfolio Website</h2>
 
-  A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+Welcome to my GitHub profile! I'm Gaurish Bahurupi, and I'm on a mission to illuminate the dark corners of the web, one vulnerability at a time. Here, you'll find projects related to cybersecurity, penetration testing, and more.
 
-  <a href="https://codewithsadee.github.io/pfolio/"><strong>➥ Live Demo</strong></a>
+## About Me
 
-</div>
+I am a cybersecurity enthusiast with a strong passion for ethical hacking and penetration testing. With years of experience in the field, I thrive on uncovering security vulnerabilities and helping organizations strengthen their defenses.
 
-<br />
+- 🔒 Penetration Tester
+- 🔍 Experienced in Web Application Security Testing
+- 📈 Continuous learner and advocate for cybersecurity awareness
 
-### Demo Screeshots
+## Connect with Me
 
-![Pfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+Let's connect and discuss all things cybersecurity:
 
-### Prerequisites
+- [LinkedIn](https://www.linkedin.com/in/gaurish-bahurupi)
+- [Instagram](https://instagram.com/what.the.hac)
+- [Youtube](https://youtube.com/@WhatTheHac)
 
-Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## Let's Secure the Web Together!
 
-### Run Locally
+Join me on this journey of making the web a safer place for everyone. Together, we can make a difference, one vulnerability at a time.
 
-To run **Pfolio** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/pfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/pfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+join our whatsapp group - https://chat.whatsapp.com/EW9n5lykHesAb9PdYjVybx
